@@ -1,6 +1,6 @@
 /* *******************************************************************************************
  *                                                                                           *
- * Please read the following tutorial before implementing tasks:                              *
+ * Please read the following tutorial before implementing tasks:                             *
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String   *
  *                                                                                           *
  ******************************************************************************************* */
@@ -203,7 +203,7 @@ function extractEmails(str) {
  *             '└──────────┘\n'
  *
  */
-function getRectangleString(/*width, height*/) {
+function getRectangleString(/* width, height */) {
   throw new Error('Not implemented');
 }
 
